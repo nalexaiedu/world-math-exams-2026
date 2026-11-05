@@ -1,10 +1,11 @@
 Атлас выпускных экзаменов по математике · 2026
-Copyright (c) 2026 Math & AI / mathaiedu (https://t.me/mathaiedu, https://vk.ru/mathaiedu)
+Copyright (c) 2026 Math & AI / mathaiedu (https://t.me/mathaiedu)
 
-This work is licensed under the Creative Commons
+The author's original materials in this repository (texts, practice tasks,
+solutions, exam descriptions and data) are licensed under the Creative Commons
 Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-You are free to share (copy and redistribute) and adapt this material
+You are free to share (copy and redistribute) and adapt these materials
 for non-commercial purposes, provided you give appropriate credit
 (Math & AI / mathaiedu), link to the license and indicate if changes were made.
 Commercial use is not permitted without the author's written permission.
@@ -12,7 +13,15 @@ Commercial use is not permitted without the author's written permission.
 Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 Summary (RU):   https://creativecommons.org/licenses/by-nc/4.0/deed.ru
 
-Exam names, organisation names and trademarks are used for reference only
-and remain the property of their respective owners; no affiliation is implied.
-Third-party libraries loaded at runtime (d3, topojson-client, MathJax) and the
-world map data (Natural Earth via world-atlas) are under their own licenses.
+EXCLUDED from this license:
+- The problem statements of the three official 2026 Lomonosov Moscow State
+  University (MSU) additional entrance examination variants (ДВИ МГУ 2026),
+  reproduced from MSU's official publication. Rights belong to MSU.
+  The solutions to them are the author's and are covered by this license.
+- Official materials of examination bodies referenced by links. Exam names,
+  organisation names and trademarks are used for reference only and remain
+  the property of their respective owners; no affiliation is implied.
+- Third-party code embedded in index.html: d3 v7.8.5 and topojson-client
+  v3.1.0 (ISC License, Copyright Mike Bostock); MathJax (Apache 2.0) is
+  loaded at runtime; world map data from Natural Earth via world-atlas
+  (public domain / ISC).
