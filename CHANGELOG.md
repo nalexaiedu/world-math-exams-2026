@@ -1,4 +1,14 @@
-# История изменений
+# История изменений / Changelog
+
+## v2.1 — 7 ноября 2026 / 7 November 2026
+- В английской версии формулы показываются в англоязычной записи: tan, cot, arctan вместо tg, ctg, arctg; десятичная точка вместо запятой; интервалы и точки через запятую: [1, 3]. Русская версия не изменилась.
+- In the English version, formulas use English notation: tan, cot, arctan instead of tg, ctg, arctg; decimal point instead of comma; intervals and points with commas: [1, 3]. The Russian version is unchanged.
+
+## v2.0 — 7 ноября 2026 / 7 November 2026
+- Атлас стал двуязычным (RU / EN): переключатель языка вверху страницы, параметр `?lang=en` в адресе, автоматический выбор по языку браузера.
+- На английский переведены интерфейс, названия и описания всех 115 экзаменов, 111 стран, 34 темы, заголовки разделов вариантов, варианты ответов, решения и ответы ко всем 2510 заданиям; около 690 сокращённых английских условий заменены полными.
+- Исправлена опечатка в описании формата бегрута (Израиль): «по 33⅓ балла».
+- *The atlas is now bilingual (RU / EN): language switch at the top of the page, `?lang=en` URL parameter, automatic choice by browser language. The interface, the names and descriptions of all 115 exams, 111 countries, 34 topics, answer options, solutions and answers to all 2,510 tasks have been translated into English; about 690 abridged English task statements were replaced with full translations.*
 
 ## v1.9 — 7 ноября 2026
 - Полностью переписаны 22 варианта, собранные ранее из типовых задач: Армения, Грузия, Азербайджан, Северная Македония, Киргизия (ОРТ), Швеция, Словения, Эстония, Коста-Рика, Эфиопия, Монголия, Колумбия (Saber 11), Нигерия (JAMB), Regents Algebra II, Мексика (EXANI-II), Иран (Konkur), Бангладеш (HSC), Доминиканская Республика, Пакистан (FSc), Замбия, Иордания (Tawjihi), Саудовская Аравия (Tahsili) — около 760 новых заданий.
